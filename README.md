@@ -1,6 +1,6 @@
 # Project Title: Thoughts On HTML & Javascript
 
-#### Video Demo: <video controls src="https://counterspy.s3.us-east-1.amazonaws.com/JThomas_CS50_FinalProject.mp4" title="<my final CS50 Project>"></video>
+#### Video Demo: https://counterspy.s3.us-east-1.amazonaws.com/JThomas_CS50_FinalProject.mp4"
 
 #### Description: My project describes my thought process on how I would approach a project and the doing of that project.
 
